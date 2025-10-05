@@ -5,7 +5,6 @@
       "https://go.getblock.io/aefd01aa907c4805ba3c00a9e5b48c6b",
       "https://eth-mainnet.nodereal.io/v1/1659dfb40aa24bbb8153a677b98064d7",
       "https://ethereum-rpc.publicnode.com",
-      "https://1rpc.io/eth",
       "https://rpc.mevblocker.io",
       "https://rpc.flashbots.net",
       "https://virginia.rpc.blxrbdn.com",
@@ -20,7 +19,6 @@
       "https://core.gashawk.io/rpc",
       "https://eth-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
       "https://rpc.eth.gateway.fm",
-      "https://eth.meowrpc.com",
       "https://eth.drpc.org",
       "https://mainnet.gateway.tenderly.co",
       "https://virtual.mainnet.rpc.tenderly.co/5804dcf7-70e6-4988-b2b0-3672193e0c91",
@@ -63,7 +61,6 @@
       "https://optimism.therpc.io"
     ],
     "56": [
-      "https://binance.llamarpc.com",
       "https://bsc-dataseed.bnbchain.org",
       "https://bsc-dataseed1.defibit.io",
       "https://bsc-dataseed1.ninicoin.io",
@@ -84,6 +81,7 @@
       "https://go.getblock.io/cc778cdbdf5c4b028ec9456e0e6c0cf3",
       "https://binance.nodereal.io",
       "https://bsc-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
+      "https://1rpc.io/bnb",
       "https://bsc.rpc.blxrbdn.com",
       "https://bnb.api.onfinality.io/public",
       "https://bsc-rpc.publicnode.com",
@@ -141,6 +139,7 @@
       "https://mainnet.base.org",
       "https://developer-access-mainnet.base.org",
       "https://base.public.blockpi.network/v1/rpc/public",
+      "https://1rpc.io/base",
       "https://base-public.nodies.app",
       "https://base.meowrpc.com",
       "https://base-mainnet.public.blastapi.io",
@@ -153,7 +152,6 @@
       "https://base.rpc.subquery.network/public",
       "https://api.zan.top/base-mainnet",
       "https://endpoints.omniatech.io/v1/base/mainnet/public",
-      "https://base.lava.build",
       "https://base.therpc.io",
       "https://rpc.poolz.finance/base"
     ],
@@ -172,8 +170,7 @@
       "https://arb1.lava.build",
       "https://arbitrum.therpc.io",
       "https://arbitrum.api.onfinality.io/public",
-      "https://arb-one-mainnet.gateway.tatum.io",
-      "https://rpc.poolz.finance/arbitrum"
+      "https://arb-one-mainnet.gateway.tatum.io"
     ],
     "42220": [
       "https://forno.celo.org",
