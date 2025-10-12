@@ -5,6 +5,7 @@
       "https://go.getblock.io/aefd01aa907c4805ba3c00a9e5b48c6b",
       "https://eth-mainnet.nodereal.io/v1/1659dfb40aa24bbb8153a677b98064d7",
       "https://ethereum-rpc.publicnode.com",
+      "https://1rpc.io/eth",
       "https://rpc.mevblocker.io",
       "https://rpc.flashbots.net",
       "https://virginia.rpc.blxrbdn.com",
@@ -19,9 +20,9 @@
       "https://core.gashawk.io/rpc",
       "https://eth-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
       "https://rpc.eth.gateway.fm",
+      "https://eth.meowrpc.com",
       "https://eth.drpc.org",
       "https://mainnet.gateway.tenderly.co",
-      "https://virtual.mainnet.rpc.tenderly.co/5804dcf7-70e6-4988-b2b0-3672193e0c91",
       "https://gateway.tenderly.co/public/mainnet",
       "https://api.zan.top/eth-mainnet",
       "https://eth.merkle.io",
@@ -36,6 +37,7 @@
       "https://eth.api.onfinality.io/public",
       "https://ethereum-json-rpc.stakely.io",
       "https://rpc.poolz.finance/eth",
+      "https://eth.rpc.grove.city/v1/01fdb492",
       "https://rpc.flashbots.net/fast",
       "https://rpc.mevblocker.io/fast",
       "https://rpc.mevblocker.io/noreverts",
@@ -58,7 +60,9 @@
       "https://endpoints.omniatech.io/v1/op/mainnet/public",
       "https://optimism.rpc.subquery.network/public",
       "https://0xrpc.io/op",
-      "https://optimism.therpc.io"
+      "https://optimism.therpc.io",
+      "https://optimism.rpc.grove.city/v1/01fdb492",
+      "https://public-op-mainnet.fastnode.io"
     ],
     "56": [
       "https://bsc-dataseed.bnbchain.org",
@@ -95,7 +99,9 @@
       "https://bsc.blockrazor.xyz",
       "https://endpoints.omniatech.io/v1/bsc/mainnet/public",
       "https://bsc.therpc.io",
-      "https://rpc.poolz.finance/bsc"
+      "https://rpc.poolz.finance/bsc",
+      "https://bsc.rpc.grove.city/v1/01fdb492",
+      "https://public-bsc-mainnet.fastnode.io"
     ],
     "100": [
       "https://rpc.gnosischain.com",
@@ -118,7 +124,6 @@
       "https://rpc-mainnet.matic.quiknode.pro",
       "https://polygon-public.nodies.app",
       "https://polygon-mainnet.public.blastapi.io",
-      "https://1rpc.io/matic",
       "https://polygon-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
       "https://polygon-bor-rpc.publicnode.com",
       "https://go.getblock.io/02667b699f05444ab2c64f9bff28f027",
@@ -132,7 +137,8 @@
       "https://endpoints.omniatech.io/v1/matic/mainnet/public",
       "https://polygon.lava.build",
       "https://polygon.therpc.io",
-      "https://rpc.poolz.finance/polygon"
+      "https://rpc.poolz.finance/polygon",
+      "https://poly.rpc.grove.city/v1/01fdb492"
     ],
     "8453": [
       "https://base.llamarpc.com",
@@ -152,8 +158,10 @@
       "https://base.rpc.subquery.network/public",
       "https://api.zan.top/base-mainnet",
       "https://endpoints.omniatech.io/v1/base/mainnet/public",
+      "https://base.lava.build",
       "https://base.therpc.io",
-      "https://rpc.poolz.finance/base"
+      "https://rpc.poolz.finance/base",
+      "https://base.rpc.grove.city/v1/01fdb492"
     ],
     "42161": [
       "https://arb1.arbitrum.io/rpc",
@@ -170,7 +178,10 @@
       "https://arb1.lava.build",
       "https://arbitrum.therpc.io",
       "https://arbitrum.api.onfinality.io/public",
-      "https://arb-one-mainnet.gateway.tatum.io"
+      "https://arb-one-mainnet.gateway.tatum.io",
+      "https://rpc.poolz.finance/arbitrum",
+      "https://arbitrum-one.rpc.grove.city/v1/01fdb492",
+      "https://public-arb-mainnet.fastnode.io"
     ],
     "42220": [
       "https://forno.celo.org",
@@ -194,7 +205,8 @@
       "https://0xrpc.io/avax",
       "https://spectrum-01.simplystaking.xyz/avalanche-mn-rpc/ext/bc/C/rpc",
       "https://avalanche.therpc.io",
-      "https://rpc.poolz.finance/avalanche"
+      "https://rpc.poolz.finance/avalanche",
+      "https://avax.rpc.grove.city/v1/01fdb492"
     ],
     "81457": [
       "https://rpc.blast.io",
@@ -206,7 +218,8 @@
       "https://blast.gateway.tenderly.co",
       "https://endpoints.omniatech.io/v1/blast/mainnet/public",
       "https://blast-public.nodies.app",
-      "https://blast.therpc.io"
+      "https://blast.therpc.io",
+      "https://blast.rpc.grove.city/v1/01fdb492"
     ],
     "7777777": [
       "https://rpc.zora.energy",
