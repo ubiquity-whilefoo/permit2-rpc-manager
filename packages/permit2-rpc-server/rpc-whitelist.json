@@ -22,7 +22,6 @@
       "https://eth.meowrpc.com",
       "https://eth.drpc.org",
       "https://mainnet.gateway.tenderly.co",
-      "https://virtual.mainnet.rpc.tenderly.co/5804dcf7-70e6-4988-b2b0-3672193e0c91",
       "https://gateway.tenderly.co/public/mainnet",
       "https://api.zan.top/eth-mainnet",
       "https://eth.merkle.io",
@@ -36,7 +35,6 @@
       "https://eth.api.onfinality.io/public",
       "https://ethereum-json-rpc.stakely.io",
       "https://eth.api.pocket.network",
-      "https://api-ethereum-mainnet-reth.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
       "https://rpc.fullsend.to",
       "https://rpc.flashbots.net/fast",
       "https://rpc.mevblocker.io/fast",
@@ -80,7 +78,6 @@
       "https://0.48.club",
       "https://binance-smart-chain-public.nodies.app",
       "https://bsc-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3",
-      "https://go.getblock.io/cc778cdbdf5c4b028ec9456e0e6c0cf3",
       "https://binance.nodereal.io",
       "https://bsc-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
       "https://1rpc.io/bnb",
@@ -97,7 +94,8 @@
       "https://bsc.blockrazor.xyz",
       "https://endpoints.omniatech.io/v1/bsc/mainnet/public",
       "https://bsc.api.pocket.network",
-      "https://public-bsc-mainnet.fastnode.io"
+      "https://public-bsc-mainnet.fastnode.io",
+      "https://api-bsc-mainnet-full.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c"
     ],
     "100": [
       "https://rpc.gnosischain.com",
@@ -112,6 +110,7 @@
       "https://gno-mainnet.gateway.tatum.io",
       "https://0xrpc.io/gno",
       "https://gnosis.api.pocket.network",
+      "https://public-gno-mainnet.fastnode.io",
       "https://gnosis.oat.farm"
     ],
     "137": [
@@ -139,6 +138,7 @@
       "https://mainnet.base.org",
       "https://developer-access-mainnet.base.org",
       "https://base.public.blockpi.network/v1/rpc/public",
+      "https://1rpc.io/base",
       "https://base-public.nodies.app",
       "https://base.meowrpc.com",
       "https://base-mainnet.public.blastapi.io",
@@ -152,12 +152,10 @@
       "https://endpoints.omniatech.io/v1/base/mainnet/public",
       "https://base.lava.build",
       "https://base.api.pocket.network",
-      "https://base.rpc.blxrbdn.com",
-      "https://api-base-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c"
+      "https://base.rpc.blxrbdn.com"
     ],
     "42161": [
       "https://arb1.arbitrum.io/rpc",
-      "https://1rpc.io/arb",
       "https://arbitrum-one-public.nodies.app",
       "https://arbitrum.public.blockpi.network/v1/rpc/public",
       "https://arbitrum-one.public.blastapi.io",
@@ -171,7 +169,8 @@
       "https://arbitrum.api.onfinality.io/public",
       "https://arb-one-mainnet.gateway.tatum.io",
       "https://arb-one.api.pocket.network",
-      "https://public-arb-mainnet.fastnode.io"
+      "https://public-arb-mainnet.fastnode.io",
+      "https://api-arbitrum-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c"
     ],
     "42220": [
       "https://forno.celo.org",
@@ -180,8 +179,7 @@
       "https://celo-mainnet.gateway.tatum.io",
       "https://celo.drpc.org",
       "https://celo-json-rpc.stakely.io",
-      "https://celo.api.onfinality.io/public",
-      "https://api-celo-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c"
+      "https://celo.api.onfinality.io/public"
     ],
     "43114": [
       "https://api.avax.network/ext/bc/C/rpc",
