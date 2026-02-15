@@ -2,7 +2,6 @@
   "rpcs": {
     "1": [
       "https://eth.llamarpc.com",
-      "https://go.getblock.io/aefd01aa907c4805ba3c00a9e5b48c6b",
       "https://eth-mainnet.nodereal.io/v1/1659dfb40aa24bbb8153a677b98064d7",
       "https://ethereum-rpc.publicnode.com",
       "https://1rpc.io/eth",
@@ -21,6 +20,7 @@
       "https://eth.meowrpc.com",
       "https://eth.drpc.org",
       "https://mainnet.gateway.tenderly.co",
+      "https://virtual.mainnet.rpc.tenderly.co/5804dcf7-70e6-4988-b2b0-3672193e0c91",
       "https://gateway.tenderly.co/public/mainnet",
       "https://api.zan.top/eth-mainnet",
       "https://eth.merkle.io",
@@ -77,6 +77,7 @@
       "https://0.48.club",
       "https://binance-smart-chain-public.nodies.app",
       "https://bsc-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3",
+      "https://go.getblock.io/cc778cdbdf5c4b028ec9456e0e6c0cf3",
       "https://binance.nodereal.io",
       "https://bsc-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
       "https://1rpc.io/bnb",
@@ -102,6 +103,7 @@
       "https://rpc.gnosis.gateway.fm",
       "https://rpc.ap-southeast-1.gateway.fm/v4/gnosis/non-archival/mainnet",
       "https://gnosis.api.onfinality.io/public",
+      "https://gnosis.drpc.org",
       "https://gnosis-rpc.publicnode.com",
       "https://1rpc.io/gnosis",
       "https://gno-mainnet.gateway.tatum.io",
@@ -129,7 +131,6 @@
       "https://rpc.sentio.xyz/matic"
     ],
     "8453": [
-      "https://base.llamarpc.com",
       "https://mainnet.base.org",
       "https://developer-access-mainnet.base.org",
       "https://base.public.blockpi.network/v1/rpc/public",
@@ -147,7 +148,6 @@
       "https://base.api.pocket.network",
       "https://base.rpc.blxrbdn.com",
       "https://api-base-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
-      "https://rpcbase.hairylabs.io/rpc",
       "https://rpc.sentio.xyz/base"
     ],
     "42161": [
@@ -201,8 +201,7 @@
       "https://blast.gateway.tenderly.co",
       "https://blast-public.nodies.app",
       "https://blast.api.pocket.network",
-      "https://api-blast-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
-      "https://rpc.sentio.xyz/blast-mainnet"
+      "https://api-blast-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c"
     ],
     "7777777": [
       "https://rpc.zora.energy",
