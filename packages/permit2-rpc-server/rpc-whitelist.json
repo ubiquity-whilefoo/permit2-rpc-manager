@@ -2,10 +2,11 @@
   "rpcs": {
     "1": [
       "https://eth.llamarpc.com",
+      "https://go.getblock.io/aefd01aa907c4805ba3c00a9e5b48c6b",
       "https://eth-mainnet.nodereal.io/v1/1659dfb40aa24bbb8153a677b98064d7",
       "https://ethereum-rpc.publicnode.com",
-      "https://1rpc.io/eth",
       "https://rpc.mevblocker.io",
+      "https://rpc.flashbots.net",
       "https://virginia.rpc.blxrbdn.com",
       "https://uk.rpc.blxrbdn.com",
       "https://singapore.rpc.blxrbdn.com",
@@ -32,9 +33,9 @@
       "https://eth.api.onfinality.io/public",
       "https://ethereum-json-rpc.stakely.io",
       "https://eth.api.pocket.network",
-      "https://api-ethereum-mainnet-reth.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
       "https://rpc.fullsend.to",
       "https://rpc.sentio.xyz/mainnet",
+      "https://rpc.flashbots.net/fast",
       "https://rpc.mevblocker.io/fast",
       "https://rpc.mevblocker.io/noreverts",
       "https://rpc.mevblocker.io/fullprivacy"
@@ -54,7 +55,6 @@
       "https://go.getblock.io/e8a75f8dcf614861becfbcb185be6eb4",
       "https://optimism.rpc.subquery.network/public",
       "https://public-op-mainnet.fastnode.io",
-      "https://api-optimism-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
       "https://rpc.sentio.xyz/optimism"
     ],
     "56": [
@@ -91,6 +91,7 @@
       "https://bsc.blockrazor.xyz",
       "https://bsc.api.pocket.network",
       "https://public-bsc-mainnet.fastnode.io",
+      "https://api-bsc-mainnet-full.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
       "https://rpc.sentio.xyz/bsc"
     ],
     "100": [
@@ -101,6 +102,7 @@
       "https://gnosis.api.onfinality.io/public",
       "https://gnosis.drpc.org",
       "https://gnosis-rpc.publicnode.com",
+      "https://1rpc.io/gnosis",
       "https://gno-mainnet.gateway.tatum.io",
       "https://gnosis.api.pocket.network",
       "https://public-gno-mainnet.fastnode.io",
@@ -109,7 +111,6 @@
     "137": [
       "https://rpc-mainnet.matic.quiknode.pro",
       "https://polygon-public.nodies.app",
-      "https://1rpc.io/matic",
       "https://polygon-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
       "https://polygon-bor-rpc.publicnode.com",
       "https://go.getblock.io/02667b699f05444ab2c64f9bff28f027",
@@ -122,7 +123,6 @@
       "https://polygon.rpc.subquery.network/public",
       "https://polygon.lava.build",
       "https://poly.api.pocket.network",
-      "https://api-polygon-mainnet-full.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
       "https://rpc.sentio.xyz/matic"
     ],
     "8453": [
@@ -174,7 +174,8 @@
       "https://celo-mainnet.gateway.tatum.io",
       "https://celo.drpc.org",
       "https://celo-json-rpc.stakely.io",
-      "https://celo.api.onfinality.io/public"
+      "https://celo.api.onfinality.io/public",
+      "https://api-celo-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c"
     ],
     "43114": [
       "https://api.avax.network/ext/bc/C/rpc",
@@ -201,8 +202,7 @@
     ],
     "7777777": [
       "https://rpc.zora.energy",
-      "https://zora.drpc.org",
-      "https://api-zora-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c"
+      "https://zora.drpc.org"
     ]
   }
 }
