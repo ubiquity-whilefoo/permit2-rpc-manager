@@ -6,6 +6,7 @@
       "https://ethereum-rpc.publicnode.com",
       "https://1rpc.io/eth",
       "https://rpc.mevblocker.io",
+      "https://rpc.flashbots.net",
       "https://virginia.rpc.blxrbdn.com",
       "https://uk.rpc.blxrbdn.com",
       "https://singapore.rpc.blxrbdn.com",
@@ -27,10 +28,13 @@
       "https://eth1.lava.build",
       "https://0xrpc.io/eth",
       "https://eth.api.onfinality.io/public",
+      "https://ethereum-json-rpc.stakely.io",
       "https://eth.api.pocket.network",
       "https://api-ethereum-mainnet-reth.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
       "https://rpc.fullsend.to",
       "https://mainnet.rpc.sentio.xyz",
+      "https://rpc-eth.blockmachine.io",
+      "https://rpc.flashbots.net/fast",
       "https://rpc.mevblocker.io/fast",
       "https://rpc.mevblocker.io/noreverts",
       "https://rpc.mevblocker.io/fullprivacy"
@@ -79,11 +83,13 @@
       "https://bsc-mainnet.public.blastapi.io",
       "https://bsc.meowrpc.com",
       "https://api.zan.top/bsc-mainnet",
+      "https://bsc.drpc.org",
       "https://bsc-mainnet.gateway.tatum.io",
       "https://public-bsc.nownodes.io",
       "https://bsc.blockrazor.xyz",
       "https://bsc.api.pocket.network",
       "https://public-bsc-mainnet.fastnode.io",
+      "https://api-bsc-mainnet-full.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
       "https://bsc.rpc.sentio.xyz"
     ],
     "100": [
@@ -95,6 +101,7 @@
       "https://gnosis-rpc.publicnode.com",
       "https://1rpc.io/gnosis",
       "https://gno-mainnet.gateway.tatum.io",
+      "https://gnosis.api.pocket.network",
       "https://public-gno-mainnet.fastnode.io",
       "https://gnosis.oat.farm"
     ],
@@ -188,12 +195,12 @@
       "https://blast.drpc.org",
       "https://blast.gateway.tenderly.co",
       "https://blast.api.pocket.network",
+      "https://api-blast-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
       "https://blast-mainnet.rpc.sentio.xyz"
     ],
     "7777777": [
       "https://rpc.zora.energy",
-      "https://zora.drpc.org",
-      "https://api-zora-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c"
+      "https://zora.drpc.org"
     ]
   }
 }
